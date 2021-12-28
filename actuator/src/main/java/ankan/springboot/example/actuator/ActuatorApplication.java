@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ActuatorApplication {
 
 	public static void main(String[] args) {
-		System.out.println("ctuaort test works");
+		System.out.println("actuator test works");
 		SpringApplication.run(ActuatorApplication.class, args);
 	}
 
